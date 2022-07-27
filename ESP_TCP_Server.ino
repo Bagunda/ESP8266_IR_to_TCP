@@ -16,8 +16,8 @@ int port = 23;  //TCP port number
 WiFiServer server(port);
 
 //Server connect to WiFi Network
-const char *ssid = "MAC";  //Enter your wifi SSID
-const char *password = "Entrade777";  //Enter your wifi Password
+const char *ssid = "MyWiFi";  //Enter your wifi SSID
+const char *password = "123456789";  //Enter your wifi Password
 
 
 // An IR detector/demodulator is connected to GPIO pin 14(D5 on a NodeMCU
